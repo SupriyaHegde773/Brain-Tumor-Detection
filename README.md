@@ -70,5 +70,5 @@ This project is open-source and available under the **MIT License**.
 
 ---
 ### **GitHub Repository**
-[https://github.com/your-username/Brain-Tumor-Detection](https://github.com/your-username/Brain-Tumor-Detection)
+[https://github.com/your-username/Brain-Tumor-Detection](https://github.com/SupriyaHegde773/Brain-Tumor-Detection.git)
 
