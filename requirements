@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+matplotlib
+PyQt5
+scikit-learn
+flask  # If using Flask API deployment
+joblib  # For saving/loading models
+threading
+
